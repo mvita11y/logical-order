@@ -4185,21 +4185,6 @@ input[type="search"] {
   padding-left:3rem;
   width:calc(100% - 250px)
  }
- summary.facebook {
-    background-color: #4267b2;
-    color: white;
-    font-size: xx-large;
-    font-weight: bolder;
-    text-shadow: 1px 1px 1px black;
-  }
-
-summary.twitter {
-    background-color: #2DA6F4;
-    color: white;
-    font-size: xx-large;
-    font-weight: bolder;
-    text-shadow: 1px 1px 1px black;
-  }
 }
 
 /*# sourceMappingURL=main.css.map */
